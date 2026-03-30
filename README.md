@@ -15,14 +15,6 @@ A simple terminal chatbot in JavaScript that calls the Groq API.
 npm install
 ```
 
-2. Copy `.env.example` to `.env` and add your key:
-
-```bash
-cp .env.example .env
-```
-
-Then edit `.env` and set `GROQ_API_KEY`.
-
 ## Run
 
 ```bash
